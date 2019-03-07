@@ -1,0 +1,46 @@
+{
+  "profile":{
+     "img":" desert.jpg",
+     "name":"sravani",
+     "roll":"1296",
+     "place":"guntur",
+     "des":" student"
+  },
+  "career":{
+      "info":"aim explore gain"
+  },
+  "education":[
+    {
+      "sno":"1..",
+      "degree":"b.tech",
+      "institute":"vignan",
+       "percentage":"85",
+       "yop":"2021"
+    },
+    {
+      "sno":"2..",
+      "degree":"intermediate",
+      "institute":"xperts",
+       "percentage":"96",
+       "yop":"2017"
+    },
+    {
+      "sno":"3..",
+      "degree":"ssc",
+      "institute":"little flower",
+       "percentage":"80",
+       "yop":"2015"
+    }
+  ],
+   "languages":[
+     {
+        "info":"english"
+     },
+     {
+        "info":"telugu"
+     },
+     {
+         " info":"hindi"
+     }
+   ]
+}

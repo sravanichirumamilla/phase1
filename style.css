@@ -1,0 +1,20 @@
+.main{
+  display:flex;
+  border: 2px solid #044CAD;
+  justify-content: space-between;
+  background: blue;
+}
+.s1{
+    border: 2px solid #044CAD;
+    margin:5%;
+    padding:2%;
+    background: pink;
+    text-align:center;
+    border-radius:10%;
+}
+/* h1,p{
+     text-align: center
+} */
+body{
+    background: black;
+}
